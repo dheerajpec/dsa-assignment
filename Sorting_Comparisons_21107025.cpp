@@ -114,8 +114,4 @@ TIME COMPLEXITY OF SELECTION SORT
     Time Complexity=(n)+(n-1)+(n-2)...1=(n)(n+1)/2
                    =O(n^2)
 
-
-ROSHAN TRIPATHI
-ECE SID:21105086
-
 */
